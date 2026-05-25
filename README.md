@@ -21,10 +21,7 @@ Some skills (like `prioritization-frameworks` or `opportunity-solution-tree`) ar
 ## Structure
 
 ```
-pm-<domain>/
-└── skills/
-    └── <skill-name>/
-        └── SKILL.md
+pm-<domain>/<skill-name>/SKILL.md
 ```
 
 ## Skills by Domain

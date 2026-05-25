@@ -11,7 +11,7 @@ Based on [phuryn/pm-skills](https://github.com/phuryn/pm-skills) by Paweł Huryn
 ## Structure
 
 ```
-pm-<domain>/skills/<skill-name>/SKILL.md
+pm-<domain>/<skill-name>/SKILL.md
 ```
 
 8 plugins: `pm-product-discovery` (13), `pm-product-strategy` (12), `pm-execution` (15), `pm-market-research` (7), `pm-data-analytics` (3), `pm-go-to-market` (6), `pm-marketing-growth` (5), `pm-toolkit` (4).
